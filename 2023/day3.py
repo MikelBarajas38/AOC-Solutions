@@ -115,4 +115,4 @@ if __name__ == '__main__':
     print(part_two(input))
 
 #todo: better to save just indexes of the numbers and then parse them
-#test
+#test 2
